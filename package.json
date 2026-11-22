@@ -24,5 +24,8 @@
     "esbuild": "^0.25.0",
     "tsx": "^4.20.0",
     "typescript": "^5.9.0"
+  },
+  "overrides": {
+    "htmlparser2": "^9.1.0"
   }
 }
